@@ -5,19 +5,30 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Psalmsin\\Placestocoordinates\\": "packages/psalmsin/placestocoordinates/src/"
+            "Psalmsin\\Placestocoordinates\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Psalmsin\\Placestocoordinates\\": "packages/psalmsin/placestocoordinates/src/"
+            "Psalmsin\\Placestocoordinates\\": "src/"
         }
     },
     "authors": [
         {
             "name": "psalmsin1759",
-            "email": "samson_ude@yahoo.com"
+            "email": "samson_ude@yahoo.com",
+            "homepage": "https://samsonude.dev"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.1"
+    },
+    "require-dev": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true,
+        "preferred-install": "dist",
+        "optimize-autoloader": true
+    }
 }
