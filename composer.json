@@ -1,0 +1,18 @@
+{
+    "name": "psalmsin/placestocoordinates",
+    "description": "The Placestocoordinates Laravel package simplifies geolocation tasks by effortlessly obtaining latitude and longitude coordinates based on addresses. It provides a convenient way to perform address-to-coordinates conversions in Laravel applicat",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Psalmsin\\Placestocoordinates\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "psalmsin1759",
+            "email": "samson_ude@yahoo.com"
+        }
+    ],
+    "require": {}
+}
