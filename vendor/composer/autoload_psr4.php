@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Psalmsin\\Placestocoordinates\\' => array($baseDir . '/src'),
+    'Psalmsin\\Placestocoordinates\\' => array($baseDir . '/packages/psalmsin/placestocoordinates/src'),
 );

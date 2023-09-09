@@ -5,7 +5,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Psalmsin\\Placestocoordinates\\": "src/"
+            "Psalmsin\\Placestocoordinates\\": "packages/psalmsin/placestocoordinates/src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Psalmsin\\Placestocoordinates\\": "packages/psalmsin/placestocoordinates/src/"
         }
     },
     "authors": [

@@ -16,7 +16,7 @@ class ComposerStaticInitb9e96cf2751753f1fc94e40b61a22fdb
     public static $prefixDirsPsr4 = array (
         'Psalmsin\\Placestocoordinates\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/packages/psalmsin/placestocoordinates/src',
         ),
     );
 
