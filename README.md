@@ -1,6 +1,6 @@
-## Addresstocoordinates Laravel Package
+## Placestocoordinates Laravel Package
 
-The PlacesToCoordinates Laravel package simplifies geolocation tasks by effortlessly obtaining latitude and longitude coordinates based on addresses. It provides a convenient way to perform address-to-coordinates conversions in Laravel applications.
+The PlacesToCoordinates Laravel package simplifies geolocation tasks by effortlessly obtaining latitude and longitude coordinates based on addresses. It provides a convenient way to perform places-to-coordinates conversions in Laravel applications.
 
 ### Features
 
@@ -55,7 +55,7 @@ Contributions to this Laravel package are welcome! Please read our contribution 
 
 ### License
 
-The Addresstocoordinates Laravel package is open-source software licensed under the MIT License.
+The Placestocoordinates Laravel package is open-source software licensed under the MIT License.
 
 ### Support
 
